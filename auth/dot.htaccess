@@ -1,0 +1,8 @@
+<Files ~ "\.html$">
+	AuthUserFile /var/www/htpasswd
+	AuthGroupFile /dev/null
+	AuthName "please enter your id and password"
+	AuthType Basic
+	require valid-user
+</Files>
+

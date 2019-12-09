@@ -1,0 +1,47 @@
+a.tab-item {
+    color: #c0c0c0;
+    text-decoration: none;
+	display: block;
+    clear: left;
+    background-color: #3c2147;
+	border-bottom: 1px solid #ee88ff;
+}
+
+div.slider {
+    text-align: center;
+    
+}
+
+a.tab-active-item {
+    background-color: #704880;
+}
+
+a.tab-item:hover {
+    background-color: #503867;
+}
+
+a.tab-item:active {
+    background-color: #704880;
+}
+
+div.tab-head {
+    background-image: url(../img/grad_40x2.png);
+    background-repeat: repeat-x;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: black;
+    font-weigt: bold;
+}
+
+#playlist {
+    position:relative;
+	overflow-x: hidden;
+	overflow-y: scroll;
+    height:300px;
+}
+
+@media screen and (max-width:479px){
+	#playlist {
+		height: 200px;
+	}
+}
