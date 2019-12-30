@@ -108,7 +108,6 @@ Player.prototype.play = function(index) {
 	this.playingIndex = index;
 };
 
-////////////////////////////////////////////////////////////
 window.onload = function() {
 	player = new Player();
 	player.setCallback();
