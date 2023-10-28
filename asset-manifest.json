@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/audio/static/css/main.6b7f20be.css",
-    "main.js": "/audio/static/js/main.1de5bf27.js",
+    "main.css": "/audio/static/css/main.df61625a.css",
+    "main.js": "/audio/static/js/main.1ef438b1.js",
     "static/js/787.e70a6d9a.chunk.js": "/audio/static/js/787.e70a6d9a.chunk.js",
     "static/media/colorize.png": "/audio/static/media/colorize.1f432abc40f0071ac23c.png",
     "static/media/integration.png": "/audio/static/media/integration.53227187987274a81c46.png",
@@ -14,7 +14,6 @@
     "static/media/metropolis.png": "/audio/static/media/metropolis.39b8c8de03ea0fa29256.png",
     "static/media/moonflower.png": "/audio/static/media/moonflower.243abd5c5885c60655b9.png",
     "static/media/solaris.png": "/audio/static/media/solaris.bb7af066811406514422.png",
-    "static/media/nebula_dark.png": "/audio/static/media/nebula_dark.dda16e076ebc95617107.png",
     "static/media/integration_small.png": "/audio/static/media/integration_small.ad1ff9e214c4e4d8b6d3.png",
     "static/media/colorize_small.png": "/audio/static/media/colorize_small.e36b5de3fe9f60d5820b.png",
     "static/media/green_small.png": "/audio/static/media/green_small.d707b657811c40e5a7ed.png",
@@ -26,6 +25,7 @@
     "static/media/metropolis_small.png": "/audio/static/media/metropolis_small.e580f9796834c32bbe51.png",
     "static/media/moonflower_small.png": "/audio/static/media/moonflower_small.e385c695d73cf3002989.png",
     "static/media/solaris_small.png": "/audio/static/media/solaris_small.792cb8f6dddc01400261.png",
+    "static/media/nebula_dark.jpg": "/audio/static/media/nebula_dark.7bbb36c91e59e1e09b34.jpg",
     "static/media/roboto-latin-500-normal.woff2": "/audio/static/media/roboto-latin-500-normal.f25d774ecfe0996f8eb5.woff2",
     "static/media/roboto-latin-700-normal.woff2": "/audio/static/media/roboto-latin-700-normal.227c93190fe7f82de3f8.woff2",
     "static/media/roboto-latin-400-normal.woff2": "/audio/static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2",
@@ -83,12 +83,12 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/audio/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "static/media/roboto-greek-ext-700-normal.woff": "/audio/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/audio/index.html",
-    "main.6b7f20be.css.map": "/audio/static/css/main.6b7f20be.css.map",
-    "main.1de5bf27.js.map": "/audio/static/js/main.1de5bf27.js.map",
+    "main.df61625a.css.map": "/audio/static/css/main.df61625a.css.map",
+    "main.1ef438b1.js.map": "/audio/static/js/main.1ef438b1.js.map",
     "787.e70a6d9a.chunk.js.map": "/audio/static/js/787.e70a6d9a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b7f20be.css",
-    "static/js/main.1de5bf27.js"
+    "static/css/main.df61625a.css",
+    "static/js/main.1ef438b1.js"
   ]
 }
